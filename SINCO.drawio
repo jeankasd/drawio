@@ -44,12 +44,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4t_XRBX031clrOFjwc_a-7" value="Rest API" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;swimlaneLine=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="220" width="179" height="150" as="geometry">
+          <mxGeometry x="610" y="220" width="210" height="150" as="geometry">
             <mxRectangle x="540" y="460" width="40" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4t_XRBX031clrOFjwc_a-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;MS-.....&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="4t_XRBX031clrOFjwc_a-7">
-          <mxGeometry x="38" y="65" width="70" height="30" as="geometry" />
+        <mxCell id="4t_XRBX031clrOFjwc_a-8" value="&lt;span class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot; dir=&quot;ltr&quot;&gt;pct-divulgacion-estadisticas&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="4t_XRBX031clrOFjwc_a-7">
+          <mxGeometry x="30" y="60" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OfjdOab_IctUtqFjhnWr-2" value="Nuevo" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4t_XRBX031clrOFjwc_a-7">
           <mxGeometry x="130" y="-20" width="71" height="40" as="geometry" />
