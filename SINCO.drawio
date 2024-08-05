@@ -85,7 +85,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Filtros-Service" id="u4T_AmXdNQRqTswr9Rkp">
-    <mxGraphModel dx="1397" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -623,7 +623,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Ohe1PTatTgTftrYPFJd-52" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="7Ohe1PTatTgTftrYPFJd-50">
+        <mxCell id="7Ohe1PTatTgTftrYPFJd-52" value="corporacion" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="7Ohe1PTatTgTftrYPFJd-50">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -787,8 +787,8 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Ohe1PTatTgTftrYPFJd-53" value="BigDecimal para los cálculos numéricos" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="432" width="140" height="118" as="geometry" />
+        <mxCell id="7Ohe1PTatTgTftrYPFJd-53" value="&lt;ul&gt;&lt;li&gt;BigDecimal para los cálculos numéricos (2 decimales)&lt;/li&gt;&lt;/ul&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="780" y="432" width="380" height="118" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
